@@ -194,4 +194,5 @@ If I were extending this project:
 
 ---
 
-*This project demonstrates my ability to quickly learn new domains, apply analytical frameworks, and build decision-support tools—skills I'm excited to bring to expedition cruise revenue management.*
+
+*This project demonstrates my ability to quickly learn new domains, apply analytical frameworks, and build decision-support tools, skills I'm excited to bring to expedition cruise revenue management.*
