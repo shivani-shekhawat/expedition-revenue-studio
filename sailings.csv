@@ -1,0 +1,50 @@
+sailing_id,ship_name,itinerary_region,itinerary_name,departure_date,duration_days,capacity_cabins,cabin_mix_class,base_fare_per_person
+S048,Venture,Alaska,Inside Passage 7D,2025-05-15,7,53,luxury-heavy,6392
+S039,Resolution,Alaska,Inside Passage 7D,2025-05-25,7,72,balanced,5683
+S028,Venture,Arctic,Svalbard Explorer 8D,2025-06-03,8,89,luxury-heavy,6474
+S034,Explorer,Arctic,Iceland & Greenland 12D,2025-06-09,12,107,economy-mix,7885
+S016,Resolution,Galápagos,Galápagos Complete 10D,2025-06-17,10,97,luxury-heavy,5864
+S032,Endeavour,Arctic,Norwegian Fjords 10D,2025-06-28,10,89,balanced,9059
+S036,Explorer,Arctic,Svalbard Explorer 8D,2025-06-30,8,91,luxury-heavy,10211
+S029,Explorer,Arctic,Norwegian Fjords 10D,2025-07-01,10,75,economy-mix,9981
+S043,Resolution,Alaska,Inside Passage 7D,2025-07-03,7,85,luxury-heavy,4207
+S037,Endeavour,Alaska,Glacier Bay & Islands 10D,2025-07-11,10,84,luxury-heavy,6962
+S041,Endeavour,Alaska,Inside Passage 7D,2025-07-26,7,62,luxury-heavy,6196
+S021,Endeavour,Galápagos,Galápagos Outer Loop 7D,2025-07-27,7,107,economy-mix,5260
+S033,Resolution,Arctic,Norwegian Fjords 10D,2025-07-27,10,77,luxury-heavy,7840
+S046,Resolution,Alaska,Inside Passage 7D,2025-08-06,7,66,balanced,5168
+S027,Explorer,Arctic,Norwegian Fjords 10D,2025-08-09,10,108,balanced,10002
+S031,Venture,Arctic,Svalbard Explorer 8D,2025-08-10,8,103,economy-mix,9466
+S035,Explorer,Arctic,Svalbard Explorer 8D,2025-08-15,8,74,economy-mix,6482
+S047,Endeavour,Alaska,Glacier Bay & Islands 10D,2025-08-17,10,62,balanced,4891
+S026,Endeavour,Arctic,Iceland & Greenland 12D,2025-08-20,12,79,balanced,7323
+S042,Resolution,Alaska,Inside Passage 7D,2025-08-23,7,61,balanced,5894
+S040,Explorer,Alaska,Inside Passage 7D,2025-08-28,7,53,balanced,6982
+S049,Explorer,Alaska,Inside Passage 7D,2025-08-31,7,82,luxury-heavy,7487
+S045,Endeavour,Alaska,Glacier Bay & Islands 10D,2025-09-02,10,75,luxury-heavy,4674
+S030,Endeavour,Arctic,Svalbard Explorer 8D,2025-09-13,8,78,economy-mix,9893
+S044,Explorer,Alaska,Inside Passage 7D,2025-09-16,7,65,luxury-heavy,5664
+S020,Resolution,Galápagos,Galápagos Outer Loop 7D,2025-09-21,7,85,luxury-heavy,8527
+S038,Endeavour,Alaska,Glacier Bay & Islands 10D,2025-09-24,10,80,balanced,4779
+S001,Venture,Antarctica,Falklands & South Georgia 14D,2025-11-07,14,75,luxury-heavy,9143
+S004,Endeavour,Antarctica,Falklands & South Georgia 14D,2025-11-07,14,94,balanced,9805
+S003,Endeavour,Antarctica,Antarctica Classic 10D,2025-11-08,10,74,economy-mix,12931
+S002,Explorer,Antarctica,Falklands & South Georgia 14D,2025-11-27,14,97,balanced,8260
+S009,Explorer,Antarctica,Antarctica Explorer 12D,2025-12-02,12,95,balanced,14794
+S022,Resolution,Galápagos,Galápagos Complete 10D,2025-12-15,10,113,balanced,8977
+S011,Explorer,Antarctica,Antarctica Explorer 12D,2025-12-29,12,74,luxury-heavy,11113
+S025,Venture,Galápagos,Galápagos Outer Loop 7D,2026-01-19,7,112,luxury-heavy,7079
+S012,Endeavour,Galápagos,Galápagos Complete 10D,2026-01-19,10,103,balanced,5858
+S007,Explorer,Antarctica,Antarctica Classic 10D,2026-01-26,10,84,luxury-heavy,10940
+S008,Venture,Antarctica,Falklands & South Georgia 14D,2026-01-28,14,62,economy-mix,11763
+S010,Endeavour,Antarctica,Falklands & South Georgia 14D,2026-02-01,14,64,luxury-heavy,13417
+S006,Venture,Antarctica,Antarctica Explorer 12D,2026-02-17,12,69,luxury-heavy,14254
+S005,Venture,Antarctica,Falklands & South Georgia 14D,2026-02-23,14,60,luxury-heavy,13719
+S014,Endeavour,Galápagos,Galápagos Outer Loop 7D,2026-03-01,7,109,balanced,6105
+S023,Explorer,Galápagos,Galápagos Outer Loop 7D,2026-03-11,7,114,balanced,8148
+S019,Resolution,Galápagos,Galápagos Complete 10D,2026-03-15,10,117,balanced,6482
+S017,Endeavour,Galápagos,Galápagos Complete 10D,2026-03-18,10,111,balanced,8623
+S015,Venture,Galápagos,Galápagos Outer Loop 7D,2026-04-24,7,83,luxury-heavy,8366
+S024,Explorer,Galápagos,Galápagos Complete 10D,2026-04-25,10,98,balanced,5647
+S018,Endeavour,Galápagos,Galápagos Complete 10D,2026-04-26,10,96,luxury-heavy,6010
+S013,Explorer,Galápagos,Galápagos Complete 10D,2026-05-10,10,118,economy-mix,5700
